@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Textviewkotlin</string>
+    <string name="download_game">download game https://play.google.com/store/apps/details?id=com.vivek.theflyingdolphin now.....</string>
+    <string name="onclick_method">ONCLICK METHOD</string>
+</resources>
